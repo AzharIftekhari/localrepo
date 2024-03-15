@@ -1,3 +1,0 @@
-We are creating a webpage
-This changes is done from feature1 branch
-
